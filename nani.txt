@@ -3,3 +3,4 @@ I came here to learn github in devOps
 i am from bangalore
 git modification
 jinjbbbbmbmh
+git cheery-pick command
