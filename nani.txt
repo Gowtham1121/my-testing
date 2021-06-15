@@ -4,3 +4,4 @@ i am from bangalore
 git modification
 jinjbbbbmbmh
 git cheery-pick command
+cherry-pick
